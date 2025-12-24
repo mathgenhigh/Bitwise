@@ -1,5 +1,6 @@
 #ifndef CONVERSIONS_H
 #define CONVERSIONS_H
+
 #include <stdio.h>
 
 #define BUF_WIDTH 32
